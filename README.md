@@ -7,6 +7,7 @@ Olá! Bem vindo ao meu programa de estudos na DIO 🤓
 - Fundamentos de Algoritmos 
 - Git
 - HTML
+- JavaScript
 - Linguagens de programação
 - Lógica de Programação
 - Pensamento Computacional
