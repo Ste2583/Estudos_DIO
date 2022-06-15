@@ -1,6 +1,8 @@
 # Material para estudos 📓
 
-Olá! Bem vindo ao meu programa de estudos na DIO 🤓
+Como primeiro repositório no GitHub criei um material de apoio para meus estudos. Aqui coloco todas as minhas anotações e resumos, assim fica muito mais fácil lembrar o que foi estudado!
+
+ Bem vindo ao meu programa de estudos na DIO 🤓
 
 - Branch
 - CSS3
